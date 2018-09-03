@@ -1,0 +1,10 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Normal
+.vscode
+node_modules
+package-lock.json
+index.html
